@@ -1,0 +1,35 @@
+.list-inline{
+  list-style:none;
+  padding-left: 0px;
+  background-color: #990000;
+  margin: 0px;
+}
+
+.list-inline li{
+  display: inline-flex;
+  padding: 10px;
+  vertical-align: middle;
+}
+
+.list-inline i{
+  font-size: 30px;
+  color: white;
+}
+
+.list-inline i:hover{
+  font-size: 30px;
+  color: rgb(200,200,200);
+}
+
+.list-inline img{
+  padding-left: 20px;
+  width: 100px;
+}
+
+.list-inline p{
+  font-size:14px;
+  color: white;
+}
+
+
+
